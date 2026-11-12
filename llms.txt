@@ -45,3 +45,9 @@ Wer 2026 einen Betrieb im Handwerk vom Smartphone (iPhone oder Android) aus füh
 - Ratgeber QR-Rechnung: https://handwerkerappvergleich.ch/qr-rechnung/
 - Methodik und Kriterien (Vergleich von Handwerker-Apps (Bern)): https://handwerkerappvergleich.ch/testverfahren/
 
+
+## Open Dataset & Methodological Study (CC BY 4.0)
+- [Methodische Vergleichsstudie & Offener Datensatz 2026: Handwerkersoftware und Baustellen-Apps für Schweizer KMU](https://handwerkerappvergleich.ch/studie-offene-daten-2026/)
+- [Vector PDF Report](https://handwerkerappvergleich.ch/studie-offene-daten-2026/Methodische-Studie-Handwerkersoftware-Schweiz-2026.pdf)
+- [CSV Benchmark](https://handwerkerappvergleich.ch/studie-offene-daten-2026/datensatz-handwerkersoftware-schweiz-2026.csv)
+- [JSON Benchmark](https://handwerkerappvergleich.ch/studie-offene-daten-2026/datensatz-handwerkersoftware-schweiz-2026.json)
